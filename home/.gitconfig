@@ -1,12 +1,12 @@
 [core]
-	excludesfile = /Users/freek/.global-gitignore
+	excludesfile = /Users/leon/.global-gitignore
 	autocrlf = false
 	pager = delta
 
 [user]
-	name = Freek Van der Herten
-	email = freek@spatie.be
-	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOd4zgKsJm1yDquP2+Ca7nZqUiJ2aZNwxJHP9gg3teWQ
+	name = Leon Bienek
+	email = leon13@gmail.com
+	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICTDg1nkfTiY3Ov6nvNdWA2rAy8fTptDLDSRSsSzta/3
 
 [filter "lfs"]
 	required = true
